@@ -7,10 +7,11 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ## Project Links
 - **Live Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiYzZjZmQyMWEtMDdjNy00ZjFlLTk1ZWUtZmI1YzY4OWRiNmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=6ea647f959302663d238)
+![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/2ef7a94a-07c0-41f1-af0a-c9395dfcd2b9)
 
 
 ## Dashboard Details
-### Page 1: Delivery Performance Overview
+### Page 1: Delivery Performance Overview 
 - **Gauges:**
   - OT: 59.03% (Target: 86.09%)
   - IF: 52.78% (Target: 76.51%)
@@ -79,4 +80,6 @@ I want to extend my gratitude to the following for their support and guidance th
 
 ## License
 This project is licensed under the MIT License.
+
+
 
