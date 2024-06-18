@@ -7,8 +7,12 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ## Project Links
 - **Live Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiYzZjZmQyMWEtMDdjNy00ZjFlLTk1ZWUtZmI1YzY4OWRiNmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=6ea647f959302663d238)
-![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/2ef7a94a-07c0-41f1-af0a-c9395dfcd2b9)
 
+![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/2ef7a94a-07c0-41f1-af0a-c9395dfcd2b9)
+![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/0fcb97c1-9b6d-4c3e-9d91-acbec7d09646)
+![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/9a08eb61-287f-4676-9875-e4e16ca1c3b4)
+![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/f3e5886b-261b-4528-a5d6-f893382b5c6d)
+![image](https://github.com/koustuba-84/AtliQ---Mart---FMCG-domain/assets/165156357/8fb53b15-a92e-44b1-b4fd-77a2a9d1b2fb)
 
 ## Dashboard Details
 ### Page 1: Delivery Performance Overview 
