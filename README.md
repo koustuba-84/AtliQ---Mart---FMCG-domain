@@ -78,8 +78,8 @@ The Supply Chain team decided to use a standard approach to measure the service 
   - Partially Delivered: 41,05,175
 
 ## Acknowledgments
-I want to extend my gratitude to the following for their support and guidance throughout this project:
-- **Codebasics Team:** For providing an excellent learning platform and bootcamp experience.
+I want to extend my gratitude to the **Codebasics Team:** for their support and guidance 
+and for providing an excellent learning platform and boot camp experience.
 
 
 ## License
